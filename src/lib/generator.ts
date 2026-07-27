@@ -113,13 +113,78 @@ const PHASE_DEFAULT_FOCUS: Record<Phase, FocusZone[]> = {
   recovery: ["defense", "setting", "conditioning"],
 };
 
-const PHASE_LOAD: Record<Phase, LoadLevel> = {
-  prep: "high",
-  build: "high",
-  competition: "moderate",
-  peak: "low",
-  recovery: "low",
-};
+/** Weekly load wave inside a phase — never flat "all hard" for many weeks. */
+type WeekTarget = "loading" | "standard" | "deload";
+
+/**
+ * Undulating week targets (research: weekly undulating periodization).
+ * Uses absolute week index so week / month / half-season / full-season / playoff
+ * all wave the same way — not only full season.
+ */
+function weekTargetFor(
+  phase: Phase,
+  weekInPhase: number,
+  absoluteWeek: number
+): WeekTarget {
+  if (phase === "recovery") return "deload";
+  if (phase === "peak") return weekInPhase === 0 ? "standard" : "deload";
+
+  // Continuous wave across the whole plan (1-based absoluteWeek → 0-based cycle).
+  const i = Math.max(0, absoluteWeek - 1);
+  if (phase === "competition") {
+    return (["standard", "loading", "standard", "deload"] as WeekTarget[])[
+      i % 4
+    ];
+  }
+  // prep / build (and any other developmental phase)
+  return (["loading", "standard", "loading", "deload"] as WeekTarget[])[i % 4];
+}
+
+function weekTargetToLoad(target: WeekTarget): LoadLevel {
+  switch (target) {
+    case "loading":
+      return "high";
+    case "standard":
+      return "moderate";
+    case "deload":
+      return "low";
+  }
+}
+
+/**
+ * Base within-week patterns (high–low undulation).
+ * Never places two highs on adjacent slots — matches "insert low between highs".
+ */
+function basePattern(target: WeekTarget, count: number): LoadLevel[] {
+  const patterns: Record<WeekTarget, Record<number, LoadLevel[]>> = {
+    loading: {
+      1: ["high"],
+      2: ["high", "moderate"],
+      3: ["moderate", "high", "moderate"],
+      4: ["moderate", "high", "low", "high"],
+      5: ["low", "high", "moderate", "high", "low"],
+      6: ["low", "high", "moderate", "high", "moderate", "low"],
+    },
+    standard: {
+      1: ["moderate"],
+      2: ["high", "low"],
+      3: ["moderate", "high", "low"],
+      4: ["moderate", "high", "low", "moderate"],
+      5: ["low", "moderate", "high", "moderate", "low"],
+      6: ["low", "moderate", "high", "low", "moderate", "low"],
+    },
+    deload: {
+      1: ["low"],
+      2: ["moderate", "low"],
+      3: ["low", "moderate", "low"],
+      4: ["low", "moderate", "low", "moderate"],
+      5: ["low", "moderate", "low", "moderate", "low"],
+      6: ["low", "moderate", "low", "moderate", "low", "low"],
+    },
+  };
+  const n = Math.max(1, Math.min(6, count));
+  return [...(patterns[target][n] ?? patterns.standard[n])];
+}
 
 function weekEmphasis(
   answers: WizardAnswers,
@@ -328,13 +393,19 @@ function fillBlock(
     ctx.used.add(ex.id);
   }
 
-  if (items.length === 0 && ordered.length && budget >= minChunk) {
+  if (items.length === 0 && ordered.length && budget >= 1) {
     const ex = ordered[0];
     items.push({
       exercise: ex,
-      durationMin: Math.min(ex.durationMin, budget),
+      durationMin: Math.min(Math.max(ex.durationMin, minChunk), budget),
     });
+    used = items[0].durationMin;
     ctx.used.add(ex.id);
+  }
+
+  // Use the full block budget — stretch the last drill rather than leave gaps.
+  if (items.length > 0 && used < budget) {
+    items[items.length - 1].durationMin += budget - used;
   }
 
   return { id: uid("block"), type, title, items };
@@ -344,43 +415,72 @@ function blockMinutes(block: Block): number {
   return block.items.reduce((s, i) => s + i.durationMin, 0);
 }
 
-function enforceSessionCap(blocks: Block[], sessionLength: number): Block[] {
-  let total = blocks.reduce((s, b) => s + blockMinutes(b), 0);
-  if (total <= sessionLength) return blocks;
-
-  const trimOrder = [
-    "conditioning",
-    "skill",
-    "scrimmage",
-    "tactical",
-    "warmup",
-    "cooldown",
-  ];
+/** Trim if over the coach's clock; pad if under — always land on sessionLength. */
+function fitSessionToLength(blocks: Block[], sessionLength: number): Block[] {
   const result = blocks.map((b) => ({
     ...b,
     items: b.items.map((i) => ({ ...i })),
   }));
 
-  for (const type of trimOrder) {
-    if (total <= sessionLength) break;
-    for (let bi = result.length - 1; bi >= 0; bi--) {
-      if (result[bi].type !== type) continue;
-      for (let ii = result[bi].items.length - 1; ii >= 0; ii--) {
-        if (total <= sessionLength) break;
-        const item = result[bi].items[ii];
-        const overflow = total - sessionLength;
-        if (item.durationMin <= overflow) {
-          total -= item.durationMin;
-          result[bi].items.splice(ii, 1);
-        } else {
-          item.durationMin -= overflow;
-          total -= overflow;
+  let total = result.reduce((s, b) => s + blockMinutes(b), 0);
+
+  // --- Trim overflow ---
+  if (total > sessionLength) {
+    const trimOrder = [
+      "conditioning",
+      "skill",
+      "scrimmage",
+      "tactical",
+      "warmup",
+      "cooldown",
+    ];
+    for (const type of trimOrder) {
+      if (total <= sessionLength) break;
+      for (let bi = result.length - 1; bi >= 0; bi--) {
+        if (result[bi].type !== type) continue;
+        for (let ii = result[bi].items.length - 1; ii >= 0; ii--) {
+          if (total <= sessionLength) break;
+          const item = result[bi].items[ii];
+          const overflow = total - sessionLength;
+          if (item.durationMin <= overflow) {
+            total -= item.durationMin;
+            result[bi].items.splice(ii, 1);
+          } else {
+            item.durationMin -= overflow;
+            total -= overflow;
+          }
         }
       }
     }
   }
 
-  return result.filter((b) => b.items.length > 0);
+  const fitted = result.filter((b) => b.items.length > 0);
+  total = fitted.reduce((s, b) => s + blockMinutes(b), 0);
+
+  // --- Pad shortfall across main content blocks ---
+  if (total < sessionLength && fitted.length > 0) {
+    let need = sessionLength - total;
+    const growTypes = new Set(["skill", "scrimmage", "tactical", "conditioning"]);
+    let pool: { bi: number; ii: number }[] = [];
+    fitted.forEach((b, bi) => {
+      if (!growTypes.has(b.type)) return;
+      b.items.forEach((_, ii) => pool.push({ bi, ii }));
+    });
+    if (pool.length === 0) {
+      fitted.forEach((b, bi) =>
+        b.items.forEach((_, ii) => pool.push({ bi, ii }))
+      );
+    }
+    let cursor = 0;
+    while (need > 0 && pool.length > 0) {
+      const { bi, ii } = pool[cursor % pool.length];
+      fitted[bi].items[ii].durationMin += 1;
+      need -= 1;
+      cursor += 1;
+    }
+  }
+
+  return fitted;
 }
 
 function sortedPracticeDays(answers: WizardAnswers): DayOfWeek[] | null {
@@ -432,66 +532,214 @@ function prevDay(day: DayOfWeek): DayOfWeek {
   return DAYS_OF_WEEK[(DAY_INDEX[day] + 6) % 7];
 }
 
-function assignIntensities(
-  days: DayOfWeek[],
+function minDaysToGame(
+  answers: WizardAnswers,
   weekIndex: number,
-  phaseLoad: LoadLevel,
+  day: DayOfWeek
+): number {
+  let best = 99;
+  for (const d of DAYS_OF_WEEK) {
+    if (!isGameOnDay(answers, weekIndex, d)) continue;
+    const dist = Math.min(
+      Math.abs(DAY_INDEX[day] - DAY_INDEX[d]),
+      7 - Math.abs(DAY_INDEX[day] - DAY_INDEX[d])
+    );
+    best = Math.min(best, dist);
+  }
+  return best;
+}
+
+/**
+ * Research-backed microcycle intensity:
+ * recovery (MD+1) → acquisition (mid-week / farthest from games) → taper (MD-2 / MD-1).
+ * Plus undulating week targets so seasons aren't 12 straight hard weeks.
+ */
+function assignIntensities(
+  days: (DayOfWeek | undefined)[],
+  weekIndex: number,
+  phase: Phase,
+  weekInPhase: number,
   answers: WizardAnswers
 ): { intensity: LoadLevel; note?: string }[] {
-  const result: { intensity: LoadLevel; note?: string }[] = [];
-  let prevHigh = false;
-  let consecutiveHard = 0;
+  const n = days.length;
+  const target = weekTargetFor(phase, weekInPhase, weekIndex);
+  const pattern = basePattern(target, n);
 
-  for (let i = 0; i < days.length; i++) {
+  type Slot = { intensity: LoadLevel; note?: string; locked: boolean };
+  const slots: Slot[] = pattern.map((intensity) => ({
+    intensity,
+    locked: false,
+  }));
+
+  // --- Game-day constraints always win (volleyball MD taper evidence) ---
+  for (let i = 0; i < n; i++) {
     const day = days[i];
-    const gameTomorrow = isGameOnDay(answers, weekIndex, nextDay(day));
-    const gameToday = isGameOnDay(answers, weekIndex, day);
-    const gameYesterday = isGameOnDay(answers, weekIndex, prevDay(day));
+    if (!day) continue;
 
-    const prevPractice = i > 0 ? days[i - 1] : null;
-    const consecutivePractice =
-      prevPractice !== null &&
-      DAY_INDEX[day] - DAY_INDEX[prevPractice] === 1;
-
-    let intensity: LoadLevel = phaseLoad;
-    let note: string | undefined;
-
-    if (gameToday) {
-      intensity = "low";
-      note = "Game day — activation / light technical only";
-    } else if (gameTomorrow) {
-      intensity = "low";
-      note = "MD-1 — technical sharpness, low jump volume";
-    } else if (gameYesterday) {
-      intensity = "low";
-      note = "MD+1 — recovery-oriented ball work";
-    } else if (consecutivePractice && (prevHigh || consecutiveHard >= 1)) {
-      intensity = "low";
-      note = "Easing load — avoiding three hard days in a row";
-      consecutiveHard = 0;
-      prevHigh = false;
-    } else if (consecutivePractice) {
-      intensity = phaseLoad === "high" ? "moderate" : phaseLoad;
-      note = "Softened — consecutive practice day";
-      consecutiveHard = 0;
-      prevHigh = false;
-    } else {
-      intensity = phaseLoad;
-      consecutiveHard = intensity === "high" ? 1 : 0;
-      prevHigh = intensity === "high";
+    if (isGameOnDay(answers, weekIndex, day)) {
+      slots[i] = {
+        intensity: "low",
+        note: "Game day — activation / light technical only",
+        locked: true,
+      };
+      continue;
     }
-
-    if (intensity === "high" && consecutiveHard >= 3) {
-      intensity = "moderate";
-      note = "Load capped — avoiding three hard days in a row";
-      consecutiveHard = 0;
-      prevHigh = false;
+    if (isGameOnDay(answers, weekIndex, nextDay(day))) {
+      slots[i] = {
+        intensity: "low",
+        note: "MD-1 — technical sharpness, low jump volume",
+        locked: true,
+      };
+      continue;
     }
-
-    result.push({ intensity, note });
+    if (isGameOnDay(answers, weekIndex, prevDay(day))) {
+      slots[i] = {
+        intensity: "low",
+        note: "MD+1 — recovery-oriented ball work",
+        locked: true,
+      };
+      continue;
+    }
+    if (isGameOnDay(answers, weekIndex, nextDay(nextDay(day)))) {
+      slots[i] = {
+        intensity: "moderate",
+        note: "MD-2 — sharpen, avoid overload before taper",
+        locked: true,
+      };
+    }
   }
 
-  return result;
+  // --- When games exist, push remaining highs onto farthest acquisition days ---
+  const hasGames =
+    usesGameDays(answers) &&
+    (answers.gameWeekdays.length > 0 ||
+      answers.gameDates.length > 0 ||
+      days.some(
+        (d) =>
+          d &&
+          (isGameOnDay(answers, weekIndex, d) ||
+            isGameOnDay(answers, weekIndex, nextDay(d)) ||
+            isGameOnDay(answers, weekIndex, prevDay(d)))
+      ));
+
+  if (hasGames) {
+    const unlocked = days
+      .map((d, i) => ({ d, i }))
+      .filter((x) => x.d && !slots[x.i].locked) as {
+      d: DayOfWeek;
+      i: number;
+    }[];
+
+    unlocked.sort(
+      (a, b) =>
+        minDaysToGame(answers, weekIndex, b.d) -
+        minDaysToGame(answers, weekIndex, a.d)
+    );
+
+    const maxHigh =
+      target === "deload" ? 0 : target === "loading" ? Math.min(2, unlocked.length) : 1;
+
+    // Clear unlocked highs first, then re-place by distance-to-game
+    for (const { i } of unlocked) {
+      if (slots[i].intensity === "high") slots[i].intensity = "moderate";
+    }
+
+    let placed = 0;
+    for (const { i, d } of unlocked) {
+      if (placed >= maxHigh) break;
+      // Don't stack high next to another high (calendar-adjacent practices)
+      const adjHigh = unlocked.some(
+        (o) =>
+          o.i !== i &&
+          slots[o.i].intensity === "high" &&
+          Math.abs(DAY_INDEX[o.d] - DAY_INDEX[d]) === 1
+      );
+      const idxAdjHigh =
+        (i > 0 && slots[i - 1].intensity === "high") ||
+        (i < n - 1 && slots[i + 1].intensity === "high");
+      if (adjHigh || idxAdjHigh) continue;
+
+      slots[i] = {
+        intensity: "high",
+        note: "Acquisition day — peak mid-week load (farthest from match)",
+        locked: false,
+      };
+      placed++;
+    }
+  }
+
+  // --- Hard rule: never two consecutive highs (by session order or calendar) ---
+  for (let i = 0; i < n; i++) {
+    if (slots[i].intensity !== "high") continue;
+    const prevHigh =
+      i > 0 && slots[i - 1].intensity === "high"
+        ? true
+        : false;
+    const day = days[i];
+    const prevDaySlot = i > 0 ? days[i - 1] : undefined;
+    const calendarAdjacent =
+      day &&
+      prevDaySlot &&
+      DAY_INDEX[day] - DAY_INDEX[prevDaySlot] === 1 &&
+      slots[i - 1].intensity === "high";
+
+    if (prevHigh || calendarAdjacent) {
+      if (!slots[i].locked) {
+        slots[i] = {
+          intensity: "moderate",
+          note: "Softened — no back-to-back hard sessions",
+          locked: false,
+        };
+      } else if (!slots[i - 1].locked) {
+        slots[i - 1] = {
+          intensity: "moderate",
+          note: "Softened — no back-to-back hard sessions",
+          locked: false,
+        };
+      }
+    }
+  }
+
+  // --- Ensure loading weeks still have at least one hard day when possible ---
+  if (target === "loading" && !slots.some((s) => s.intensity === "high")) {
+    const candidate = slots
+      .map((s, i) => ({ s, i }))
+      .filter(({ s, i }) => !s.locked && s.intensity !== "low")
+      .sort((a, b) => {
+        // Prefer middle of the week / middle index
+        const mid = (n - 1) / 2;
+        return Math.abs(a.i - mid) - Math.abs(b.i - mid);
+      });
+    for (const { i } of candidate) {
+      const leftHigh = i > 0 && slots[i - 1].intensity === "high";
+      const rightHigh = i < n - 1 && slots[i + 1].intensity === "high";
+      if (leftHigh || rightHigh) continue;
+      slots[i] = {
+        intensity: "high",
+        note: "Loading-week acquisition day",
+        locked: false,
+      };
+      break;
+    }
+  }
+
+  // --- Competition/peak deload weeks: keep at least one moderate stimulus ---
+  if (
+    (phase === "competition" || phase === "peak") &&
+    target === "deload" &&
+    slots.every((s) => s.intensity === "low")
+  ) {
+    const mid = Math.floor(n / 2);
+    if (!slots[mid].locked) {
+      slots[mid] = {
+        intensity: "moderate",
+        note: "Deload week — keep one moderate stimulus",
+        locked: false,
+      };
+    }
+  }
+
+  return slots.map(({ intensity, note }) => ({ intensity, note }));
 }
 
 /**
@@ -700,7 +948,7 @@ function buildSession(
     )
   );
 
-  const capped = enforceSessionCap(blocks, sessionLength);
+  const capped = fitSessionToLength(blocks, sessionLength);
   const totalMin = capped.reduce((s, b) => s + blockMinutes(b), 0);
 
   return {
@@ -746,6 +994,11 @@ export function generatePlan(answers: WizardAnswers): TrainingPlan {
 
     for (let w = 0; w < weeks; w++) {
       const weekIndex = weekCursor + w;
+      const weekInPhase = w;
+      const weekTarget =
+        answers.horizon === "session"
+          ? ("standard" as WeekTarget)
+          : weekTargetFor(phase, weekInPhase, weekIndex);
       const emphasis = weekEmphasis(answers, phase);
       const sessions: Session[] = [];
 
@@ -759,17 +1012,17 @@ export function generatePlan(answers: WizardAnswers): TrainingPlan {
         answers.weakness
       );
 
-      const intensityPlan = practiceDays
-        ? assignIntensities(
-            practiceDays,
-            weekIndex,
-            PHASE_LOAD[phase],
-            answers
-          )
-        : days.map(() => ({
-            intensity: PHASE_LOAD[phase] as LoadLevel,
-            note: undefined as string | undefined,
-          }));
+      // Single session: no weekly undulation — keep a steady moderate practice.
+      const intensityPlan =
+        answers.horizon === "session"
+          ? [{ intensity: "moderate" as LoadLevel, note: undefined as string | undefined }]
+          : assignIntensities(
+              days,
+              weekIndex,
+              phase,
+              weekInPhase,
+              answers
+            );
 
       for (let s = 0; s < days.length; s++) {
         const progress =
@@ -810,7 +1063,7 @@ export function generatePlan(answers: WizardAnswers): TrainingPlan {
         id: uid("week"),
         index: weekIndex,
         emphasis: emphasis.slice(0, 3).map((e) => e.zone),
-        load: PHASE_LOAD[phase],
+        load: weekTargetToLoad(weekTarget),
         sessions,
       });
     }

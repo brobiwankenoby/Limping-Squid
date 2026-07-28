@@ -228,7 +228,7 @@ export function Wizard() {
   const canContinue = useMemo(() => {
     switch (stepId) {
       case "team":
-        return a.rosterSize > 0;
+        return a.rosterSize > 0 && a.rosterSize <= 30;
       case "resources":
         if (a.sessionLength < 30 || a.sessionLength > 240) return false;
         if (needPracticeDays && a.practiceDays.length !== a.sessionsPerWeek)
@@ -328,12 +328,12 @@ export function Wizard() {
                   ))}
                 </div>
               </Field>
-              <Field label="Roster size">
+              <Field label="Roster size" hint="max 30">
                 <NumberInput
                   value={a.rosterSize}
                   onChange={(n) => set("rosterSize", n)}
                   min={1}
-                  max={40}
+                  max={30}
                 />
               </Field>
               <Field label="Team">

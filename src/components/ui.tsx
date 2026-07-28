@@ -104,7 +104,17 @@ export function NumberInput({
       value={value}
       min={min}
       max={max}
-      onChange={(e) => onChange(Number(e.target.value))}
+      onChange={(e) => {
+        const raw = Number(e.target.value);
+        if (!Number.isFinite(raw)) {
+          onChange(min ?? 0);
+          return;
+        }
+        let next = raw;
+        if (min !== undefined) next = Math.max(min, next);
+        if (max !== undefined) next = Math.min(max, next);
+        onChange(next);
+      }}
       className="w-32 rounded-lg border-2 border-sand-2 bg-white px-3 py-2 text-ink outline-none focus:border-brand"
     />
   );

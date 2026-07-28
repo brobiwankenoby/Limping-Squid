@@ -80,7 +80,7 @@ export function PlanView({
 
   return (
     <div className="min-h-screen bg-sand">
-      <header className="no-print border-b border-sand-2 bg-white">
+      <header className="no-print sticky top-0 z-40 border-b border-sand-2 bg-white/95 shadow-sm backdrop-blur">
         <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-6 py-4">
           <Link href="/">
             <Logo />
@@ -346,7 +346,7 @@ function SessionCard({
       ),
     }));
 
-  const move = (blockId: string, idx: number, dir: -1 | 1) =>
+  const move = (blockId: string, idx: number, dir: -1 | 1) => {
     onUpdate(session.id, (s) => ({
       ...s,
       blocks: s.blocks.map((b) => {
@@ -354,10 +354,13 @@ function SessionCard({
         const j = idx + dir;
         if (j < 0 || j >= b.items.length) return b;
         const items = [...b.items];
-        [items[idx], items[j]] = [items[j], items[idx]];
+        const tmp = items[idx];
+        items[idx] = items[j];
+        items[j] = tmp;
         return { ...b, items };
       }),
     }));
+  };
 
   return (
     <div className="rounded-xl border border-sand-2 bg-sand/40">
@@ -402,9 +405,12 @@ function SessionCard({
                     No drills — add via swap.
                   </div>
                 )}
-                {b.items.map((it, idx) => (
+                {b.items.map((it, idx) => {
+                  const isFirst = idx === 0;
+                  const isLast = idx === b.items.length - 1;
+                  return (
                   <div
-                    key={`${it.exercise.id}-${idx}`}
+                    key={`${b.id}-${it.exercise.id}-${idx}`}
                     className="rounded-lg bg-white p-3 shadow-sm"
                   >
                     <div className="flex items-start justify-between gap-2">
@@ -457,16 +463,20 @@ function SessionCard({
                             }
                             label="⇄"
                           />
-                          <IconBtn
-                            title="Move up"
-                            onClick={() => move(b.id, idx, -1)}
-                            label="↑"
-                          />
-                          <IconBtn
-                            title="Move down"
-                            onClick={() => move(b.id, idx, 1)}
-                            label="↓"
-                          />
+                          {!isFirst && (
+                            <IconBtn
+                              title="Move up"
+                              onClick={() => move(b.id, idx, -1)}
+                              label="↑"
+                            />
+                          )}
+                          {!isLast && (
+                            <IconBtn
+                              title="Move down"
+                              onClick={() => move(b.id, idx, 1)}
+                              label="↓"
+                            />
+                          )}
                           <IconBtn
                             title="Remove"
                             onClick={() => remove(b.id, idx)}
@@ -480,7 +490,8 @@ function SessionCard({
                       {it.durationMin} min
                     </div>
                   </div>
-                ))}
+                  );
+                })}
               </div>
             </div>
           ))}
@@ -501,8 +512,13 @@ function IconBtn({
 }) {
   return (
     <button
+      type="button"
       title={title}
-      onClick={onClick}
+      onClick={(e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        onClick();
+      }}
       className="flex h-7 w-7 items-center justify-center rounded-md border border-sand-2 bg-white text-sm text-ink transition hover:border-brand hover:text-brand"
     >
       {label}

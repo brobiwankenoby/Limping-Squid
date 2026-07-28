@@ -65,12 +65,12 @@ export default function Home() {
                 >
                   Start building →
                 </Link>
-                <a
-                  href="#how"
+                <Link
+                  href="/how-it-works"
                   className="rounded-full border border-white/30 px-8 py-3 text-lg font-semibold text-white transition hover:bg-white/10"
                 >
                   How it works
-                </a>
+                </Link>
               </div>
             </div>
             <div className="relative flex justify-center">

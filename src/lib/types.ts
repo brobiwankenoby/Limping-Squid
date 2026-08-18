@@ -66,7 +66,12 @@ export interface Exercise {
   equipment: Equipment[];
   phases: Phase[];
   type: BlockType;
+  /** Unlisted YouTube URL once the clip is uploaded. */
   videoUrl?: string;
+  /** Georgi's library code (e.g. 1001 = Setting). */
+  sourceCode?: number;
+  /** Original local filename before YouTube upload. */
+  sourceFile?: string;
 }
 
 // ---- Wizard answers ----

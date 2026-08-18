@@ -1,0 +1,10178 @@
+[
+  {
+    "id": "drill-1001",
+    "code": 1001,
+    "sourceFile": "Setting (1001).mp4",
+    "name": "Setting (1001)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1002",
+    "code": 1002,
+    "sourceFile": "Setting (1002) — Take 1.mp4",
+    "name": "Setting (1002) — Take 1",
+    "description": "Setting drill from the coaching library. Variant: Take 1.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1003",
+    "code": 1003,
+    "sourceFile": "Setting (1003) — Take 1.mp4",
+    "name": "Setting (1003) — Take 1",
+    "description": "Setting drill from the coaching library. Variant: Take 1.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1004",
+    "code": 1004,
+    "sourceFile": "Setting (1004) — Take 1.mp4",
+    "name": "Setting (1004) — Take 1",
+    "description": "Setting drill from the coaching library. Variant: Take 1.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1005",
+    "code": 1005,
+    "sourceFile": "Setting (1005) — Take 1.mp4",
+    "name": "Setting (1005) — Take 1",
+    "description": "Setting drill from the coaching library. Variant: Take 1.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1006",
+    "code": 1006,
+    "sourceFile": "Setting (1006) — Take 1.mp4",
+    "name": "Setting (1006) — Take 1",
+    "description": "Setting drill from the coaching library. Variant: Take 1.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1007",
+    "code": 1007,
+    "sourceFile": "Setting (1007) — Take 2.mp4",
+    "name": "Setting (1007) — Take 2",
+    "description": "Setting drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1008",
+    "code": 1008,
+    "sourceFile": "Setting (1008).mp4",
+    "name": "Setting (1008)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1009",
+    "code": 1009,
+    "sourceFile": "Setting (1009).mp4",
+    "name": "Setting (1009)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1010",
+    "code": 1010,
+    "sourceFile": "Setting (1010).mp4",
+    "name": "Setting (1010)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1011",
+    "code": 1011,
+    "sourceFile": "Setting (1011).mp4",
+    "name": "Setting (1011)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1012",
+    "code": 1012,
+    "sourceFile": "Setting (1012).mp4",
+    "name": "Setting (1012)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1013",
+    "code": 1013,
+    "sourceFile": "Setting (1013).mp4",
+    "name": "Setting (1013)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1014",
+    "code": 1014,
+    "sourceFile": "Setting (1014).mp4",
+    "name": "Setting (1014)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1015",
+    "code": 1015,
+    "sourceFile": "Setting (1015).mp4",
+    "name": "Setting (1015)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1016",
+    "code": 1016,
+    "sourceFile": "Setting (1016).mp4",
+    "name": "Setting (1016)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1017",
+    "code": 1017,
+    "sourceFile": "Setting (1017).mp4",
+    "name": "Setting (1017)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1018",
+    "code": 1018,
+    "sourceFile": "Setting (1018).mp4",
+    "name": "Setting (1018)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1019",
+    "code": 1019,
+    "sourceFile": "Setting (1019).mp4",
+    "name": "Setting (1019)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1020",
+    "code": 1020,
+    "sourceFile": "Setting (1020).mp4",
+    "name": "Setting (1020)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1021",
+    "code": 1021,
+    "sourceFile": "Setting (1021).mp4",
+    "name": "Setting (1021)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1022",
+    "code": 1022,
+    "sourceFile": "Setting (1022).mp4",
+    "name": "Setting (1022)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1023",
+    "code": 1023,
+    "sourceFile": "Setting (1023) — Footwork and defence.mp4",
+    "name": "Setting (1023) — Footwork and defence",
+    "description": "Setting drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1024",
+    "code": 1024,
+    "sourceFile": "Setting (1024) — Footwork and defence.mp4",
+    "name": "Setting (1024) — Footwork and defence",
+    "description": "Setting drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1025",
+    "code": 1025,
+    "sourceFile": "Setting (1025) — Attack.mp4",
+    "name": "Setting (1025) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1026",
+    "code": 1026,
+    "sourceFile": "Setting (1026) — Attack.mp4",
+    "name": "Setting (1026) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1027",
+    "code": 1027,
+    "sourceFile": "Setting (1027) — Attack.mp4",
+    "name": "Setting (1027) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1028",
+    "code": 1028,
+    "sourceFile": "Setting (1028) — Attack.mp4",
+    "name": "Setting (1028) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1029",
+    "code": 1029,
+    "sourceFile": "Setting (1029) — Attack.mp4",
+    "name": "Setting (1029) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1030",
+    "code": 1030,
+    "sourceFile": "Setting (1030) — Attack.mp4",
+    "name": "Setting (1030) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1031",
+    "code": 1031,
+    "sourceFile": "Setting (1031) — Attack.mp4",
+    "name": "Setting (1031) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1032",
+    "code": 1032,
+    "sourceFile": "Setting (1032) — Attack.mp4",
+    "name": "Setting (1032) — Attack",
+    "description": "Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1033",
+    "code": 1033,
+    "sourceFile": "Setting (1033).mp4",
+    "name": "Setting (1033)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1034",
+    "code": 1034,
+    "sourceFile": "Setting (1034).mp4",
+    "name": "Setting (1034)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1035",
+    "code": 1035,
+    "sourceFile": "Setting (1035).mp4",
+    "name": "Setting (1035)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1036",
+    "code": 1036,
+    "sourceFile": "Setting (1036).mp4",
+    "name": "Setting (1036)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1037",
+    "code": 1037,
+    "sourceFile": "Setting (1037).mp4",
+    "name": "Setting (1037)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1038",
+    "code": 1038,
+    "sourceFile": "Setting (1038).mp4",
+    "name": "Setting (1038)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1039",
+    "code": 1039,
+    "sourceFile": "Setting (1039).mp4",
+    "name": "Setting (1039)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1040",
+    "code": 1040,
+    "sourceFile": "Setting (1040).mp4",
+    "name": "Setting (1040)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1041",
+    "code": 1041,
+    "sourceFile": "Setting (1041).mp4",
+    "name": "Setting (1041)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1042",
+    "code": 1042,
+    "sourceFile": "Setting (1042) — Part 2.mp4",
+    "name": "Setting (1042) — Part 2",
+    "description": "Setting drill from the coaching library. Variant: Part 2.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1043",
+    "code": 1043,
+    "sourceFile": "Setting (1043) — Part 2.mp4",
+    "name": "Setting (1043) — Part 2",
+    "description": "Setting drill from the coaching library. Variant: Part 2.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1044",
+    "code": 1044,
+    "sourceFile": "Setting (1044) — Part 2.mp4",
+    "name": "Setting (1044) — Part 2",
+    "description": "Setting drill from the coaching library. Variant: Part 2.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1045",
+    "code": 1045,
+    "sourceFile": "Setting (1045).mp4",
+    "name": "Setting (1045)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1046",
+    "code": 1046,
+    "sourceFile": "Setting (1046).mp4",
+    "name": "Setting (1046)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-1047",
+    "code": 1047,
+    "sourceFile": "Setting (1047).mp4",
+    "name": "Setting (1047)",
+    "description": "Setting drill from the coaching library.",
+    "focusZones": [
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Setting"
+  },
+  {
+    "id": "drill-2001",
+    "code": 2001,
+    "sourceFile": "Passing (2001).mp4",
+    "name": "Passing (2001)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2002",
+    "code": 2002,
+    "sourceFile": "Passing (2002) — Take 2.mp4",
+    "name": "Passing (2002) — Take 2",
+    "description": "Passing drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2003",
+    "code": 2003,
+    "sourceFile": "Passing (2003).mp4",
+    "name": "Passing (2003)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2004",
+    "code": 2004,
+    "sourceFile": "Passing (2004).mp4",
+    "name": "Passing (2004)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2005",
+    "code": 2005,
+    "sourceFile": "Passing (2005).mp4",
+    "name": "Passing (2005)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2006",
+    "code": 2006,
+    "sourceFile": "Passing (2006).mp4",
+    "name": "Passing (2006)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2007",
+    "code": 2007,
+    "sourceFile": "Passing (2007).mp4",
+    "name": "Passing (2007)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2008",
+    "code": 2008,
+    "sourceFile": "Passing (2008).mp4",
+    "name": "Passing (2008)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2009",
+    "code": 2009,
+    "sourceFile": "Passing (2009) — Attack.mp4",
+    "name": "Passing (2009) — Attack",
+    "description": "Passing drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2010",
+    "code": 2010,
+    "sourceFile": "Passing (2010).mp4",
+    "name": "Passing (2010)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2011",
+    "code": 2011,
+    "sourceFile": "Passing (2011).mp4",
+    "name": "Passing (2011)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2012",
+    "code": 2012,
+    "sourceFile": "Passing (2012).mp4",
+    "name": "Passing (2012)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2013",
+    "code": 2013,
+    "sourceFile": "Passing (2013).mp4",
+    "name": "Passing (2013)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2014",
+    "code": 2014,
+    "sourceFile": "Passing (2014).mp4",
+    "name": "Passing (2014)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2015",
+    "code": 2015,
+    "sourceFile": "Passing (2015).mp4",
+    "name": "Passing (2015)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2016",
+    "code": 2016,
+    "sourceFile": "Passing (2016).mp4",
+    "name": "Passing (2016)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2017",
+    "code": 2017,
+    "sourceFile": "Passing (2017).mp4",
+    "name": "Passing (2017)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2018",
+    "code": 2018,
+    "sourceFile": "Passing (2018).mp4",
+    "name": "Passing (2018)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2019",
+    "code": 2019,
+    "sourceFile": "Passing (2019).mp4",
+    "name": "Passing (2019)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2020",
+    "code": 2020,
+    "sourceFile": "Passing (2020).mp4",
+    "name": "Passing (2020)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2021",
+    "code": 2021,
+    "sourceFile": "Passing (2021).mp4",
+    "name": "Passing (2021)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2022",
+    "code": 2022,
+    "sourceFile": "Passing (2022).mp4",
+    "name": "Passing (2022)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2023",
+    "code": 2023,
+    "sourceFile": "Passing (2023).mp4",
+    "name": "Passing (2023)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2024",
+    "code": 2024,
+    "sourceFile": "Passing (2024).mp4",
+    "name": "Passing (2024)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2025",
+    "code": 2025,
+    "sourceFile": "Passing (2025) — Footwork and defence.mp4",
+    "name": "Passing (2025) — Footwork and defence",
+    "description": "Passing drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2026",
+    "code": 2026,
+    "sourceFile": "Passing (2026).mp4",
+    "name": "Passing (2026)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2027",
+    "code": 2027,
+    "sourceFile": "Passing (2027).mp4",
+    "name": "Passing (2027)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2028",
+    "code": 2028,
+    "sourceFile": "Passing (2028).mp4",
+    "name": "Passing (2028)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2029",
+    "code": 2029,
+    "sourceFile": "Passing (2029).mp4",
+    "name": "Passing (2029)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-2030",
+    "code": 2030,
+    "sourceFile": "Passing (2030).mp4",
+    "name": "Passing (2030)",
+    "description": "Passing drill from the coaching library.",
+    "focusZones": [
+      "passing"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Passing"
+  },
+  {
+    "id": "drill-3001",
+    "code": 3001,
+    "sourceFile": "Attack (3001).mp4",
+    "name": "Attack (3001)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3002",
+    "code": 3002,
+    "sourceFile": "Attack (3002).mp4",
+    "name": "Attack (3002)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3003",
+    "code": 3003,
+    "sourceFile": "Attack (3003).mp4",
+    "name": "Attack (3003)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3004",
+    "code": 3004,
+    "sourceFile": "Attack (3004).mp4",
+    "name": "Attack (3004)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3005",
+    "code": 3005,
+    "sourceFile": "Attack (3005).mp4",
+    "name": "Attack (3005)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3006",
+    "code": 3006,
+    "sourceFile": "Attack (3006).mp4",
+    "name": "Attack (3006)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3007",
+    "code": 3007,
+    "sourceFile": "Attack (3007).mp4",
+    "name": "Attack (3007)",
+    "description": "Attack drill from the coaching library.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3008",
+    "code": 3008,
+    "sourceFile": "Attack (3008) — Variant.mp4",
+    "name": "Attack (3008) — Variant",
+    "description": "Attack drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-3009",
+    "code": 3009,
+    "sourceFile": "Attack (3009) — Attack.mp4",
+    "name": "Attack (3009) — Attack",
+    "description": "Attack drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Attack"
+  },
+  {
+    "id": "drill-4001",
+    "code": 4001,
+    "sourceFile": "Reception (4001) — Attack.mp4",
+    "name": "Reception (4001) — Attack",
+    "description": "Reception drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Reception"
+  },
+  {
+    "id": "drill-4002",
+    "code": 4002,
+    "sourceFile": "Reception (4002) — Attack.mp4",
+    "name": "Reception (4002) — Attack",
+    "description": "Reception drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Reception"
+  },
+  {
+    "id": "drill-4003",
+    "code": 4003,
+    "sourceFile": "Reception (4003) — Attack.mp4",
+    "name": "Reception (4003) — Attack",
+    "description": "Reception drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Reception"
+  },
+  {
+    "id": "drill-4004",
+    "code": 4004,
+    "sourceFile": "Reception (4004).mp4",
+    "name": "Reception (4004)",
+    "description": "Reception drill from the coaching library.",
+    "focusZones": [
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Reception"
+  },
+  {
+    "id": "drill-5001",
+    "code": 5001,
+    "sourceFile": "Serve (5001).mp4",
+    "name": "Serve (5001)",
+    "description": "Serve drill from the coaching library.",
+    "focusZones": [
+      "serving"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Serve"
+  },
+  {
+    "id": "drill-5002",
+    "code": 5002,
+    "sourceFile": "Serve (5002).mp4",
+    "name": "Serve (5002)",
+    "description": "Serve drill from the coaching library.",
+    "focusZones": [
+      "serving"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 2,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Serve"
+  },
+  {
+    "id": "drill-6001",
+    "code": 6001,
+    "sourceFile": "Defense (6001).mp4",
+    "name": "Defense (6001)",
+    "description": "Defense drill from the coaching library.",
+    "focusZones": [
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Defense"
+  },
+  {
+    "id": "drill-6002",
+    "code": 6002,
+    "sourceFile": "Defense (6002).mp4",
+    "name": "Defense (6002)",
+    "description": "Defense drill from the coaching library.",
+    "focusZones": [
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Defense"
+  },
+  {
+    "id": "drill-6003",
+    "code": 6003,
+    "sourceFile": "Defense (6003).mp4",
+    "name": "Defense (6003)",
+    "description": "Defense drill from the coaching library.",
+    "focusZones": [
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Defense"
+  },
+  {
+    "id": "drill-7001",
+    "code": 7001,
+    "sourceFile": "Block (7001).mp4",
+    "name": "Block (7001)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7002",
+    "code": 7002,
+    "sourceFile": "Block (7002).mp4",
+    "name": "Block (7002)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7003",
+    "code": 7003,
+    "sourceFile": "Block (7003) — Variant.mp4",
+    "name": "Block (7003) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7004",
+    "code": 7004,
+    "sourceFile": "Block (7004) — Variant.mp4",
+    "name": "Block (7004) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7005",
+    "code": 7005,
+    "sourceFile": "Block (7005) — Variant.mp4",
+    "name": "Block (7005) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7006",
+    "code": 7006,
+    "sourceFile": "Block (7006) — Variant.mp4",
+    "name": "Block (7006) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7007",
+    "code": 7007,
+    "sourceFile": "Block (7007) — Variant.mp4",
+    "name": "Block (7007) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7008",
+    "code": 7008,
+    "sourceFile": "Block (7008) — Variant.mp4",
+    "name": "Block (7008) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7009",
+    "code": 7009,
+    "sourceFile": "Block (7009) — Variant.mp4",
+    "name": "Block (7009) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7010",
+    "code": 7010,
+    "sourceFile": "Block (7010) — Variant.mp4",
+    "name": "Block (7010) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7011",
+    "code": 7011,
+    "sourceFile": "Block (7011).mp4",
+    "name": "Block (7011)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7012",
+    "code": 7012,
+    "sourceFile": "Block (7012).mp4",
+    "name": "Block (7012)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7013",
+    "code": 7013,
+    "sourceFile": "Block (7013) — Variant.mp4",
+    "name": "Block (7013) — Variant",
+    "description": "Block drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7014",
+    "code": 7014,
+    "sourceFile": "Block (7014).mp4",
+    "name": "Block (7014)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7015",
+    "code": 7015,
+    "sourceFile": "Block (7015).mp4",
+    "name": "Block (7015)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7016",
+    "code": 7016,
+    "sourceFile": "Block (7016).mp4",
+    "name": "Block (7016)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7017",
+    "code": 7017,
+    "sourceFile": "Block (7017) — Block.mp4",
+    "name": "Block (7017) — Block",
+    "description": "Block drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7018",
+    "code": 7018,
+    "sourceFile": "Block (7018) — Footwork and variant.mp4",
+    "name": "Block (7018) — Footwork and variant",
+    "description": "Block drill from the coaching library. Variant: Footwork and variant.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-7019",
+    "code": 7019,
+    "sourceFile": "Block (7019).mp4",
+    "name": "Block (7019)",
+    "description": "Block drill from the coaching library.",
+    "focusZones": [
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 2,
+    "maxPlayers": 30,
+    "durationMin": 10,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "skill",
+    "category": "Block"
+  },
+  {
+    "id": "drill-10001",
+    "code": 10001,
+    "sourceFile": "Serve and Receive (10001).mp4",
+    "name": "Serve and Receive (10001)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10002",
+    "code": 10002,
+    "sourceFile": "Serve and Receive (10002).mp4",
+    "name": "Serve and Receive (10002)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10003",
+    "code": 10003,
+    "sourceFile": "Serve and Receive (10003).mp4",
+    "name": "Serve and Receive (10003)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10004",
+    "code": 10004,
+    "sourceFile": "Serve and Receive (10004).mp4",
+    "name": "Serve and Receive (10004)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10005",
+    "code": 10005,
+    "sourceFile": "Serve and Receive (10005).mp4",
+    "name": "Serve and Receive (10005)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10006",
+    "code": 10006,
+    "sourceFile": "Serve and Receive (10006).mp4",
+    "name": "Serve and Receive (10006)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10007",
+    "code": 10007,
+    "sourceFile": "Serve and Receive (10007).mp4",
+    "name": "Serve and Receive (10007)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10008",
+    "code": 10008,
+    "sourceFile": "Serve and Receive (10008).mp4",
+    "name": "Serve and Receive (10008)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10009",
+    "code": 10009,
+    "sourceFile": "Serve and Receive (10009).mp4",
+    "name": "Serve and Receive (10009)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10010",
+    "code": 10010,
+    "sourceFile": "Serve and Receive (10010).mp4",
+    "name": "Serve and Receive (10010)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10013",
+    "code": 10013,
+    "sourceFile": "Serve and Receive (10013) — Attack.mp4",
+    "name": "Serve and Receive (10013) — Attack",
+    "description": "Serve and Receive drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10014",
+    "code": 10014,
+    "sourceFile": "Serve and Receive (10014) — Attack.mp4",
+    "name": "Serve and Receive (10014) — Attack",
+    "description": "Serve and Receive drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10015",
+    "code": 10015,
+    "sourceFile": "Serve and Receive (10015) — Variant.mp4",
+    "name": "Serve and Receive (10015) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10016",
+    "code": 10016,
+    "sourceFile": "Serve and Receive (10016).mp4",
+    "name": "Serve and Receive (10016)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10017",
+    "code": 10017,
+    "sourceFile": "Serve and Receive (10017) — Variant.mp4",
+    "name": "Serve and Receive (10017) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10018",
+    "code": 10018,
+    "sourceFile": "Serve and Receive (10018).mp4",
+    "name": "Serve and Receive (10018)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10019",
+    "code": 10019,
+    "sourceFile": "Serve and Receive (10019).mp4",
+    "name": "Serve and Receive (10019)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10020",
+    "code": 10020,
+    "sourceFile": "Serve and Receive (10020).mp4",
+    "name": "Serve and Receive (10020)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10021",
+    "code": 10021,
+    "sourceFile": "Serve and Receive (10021).mp4",
+    "name": "Serve and Receive (10021)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10022",
+    "code": 10022,
+    "sourceFile": "Serve and Receive (10022).mp4",
+    "name": "Serve and Receive (10022)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10023",
+    "code": 10023,
+    "sourceFile": "Serve and Receive (10023).mp4",
+    "name": "Serve and Receive (10023)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10024",
+    "code": 10024,
+    "sourceFile": "Serve and Receive (10024).mp4",
+    "name": "Serve and Receive (10024)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10025",
+    "code": 10025,
+    "sourceFile": "Serve and Receive (10025).mp4",
+    "name": "Serve and Receive (10025)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10026",
+    "code": 10026,
+    "sourceFile": "Serve and Receive (10026) — Variant.mp4",
+    "name": "Serve and Receive (10026) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10027",
+    "code": 10027,
+    "sourceFile": "Serve and Receive (10027) — Variant.mp4",
+    "name": "Serve and Receive (10027) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10028",
+    "code": 10028,
+    "sourceFile": "Serve and Receive (10028).mp4",
+    "name": "Serve and Receive (10028)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10029",
+    "code": 10029,
+    "sourceFile": "Serve and Receive (10029).mp4",
+    "name": "Serve and Receive (10029)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10030",
+    "code": 10030,
+    "sourceFile": "Serve and Receive (10030).mp4",
+    "name": "Serve and Receive (10030)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10031",
+    "code": 10031,
+    "sourceFile": "Serve and Receive (10031).mp4",
+    "name": "Serve and Receive (10031)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10032",
+    "code": 10032,
+    "sourceFile": "Serve and Receive (10032).mp4",
+    "name": "Serve and Receive (10032)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10033",
+    "code": 10033,
+    "sourceFile": "Serve and Receive (10033).mp4",
+    "name": "Serve and Receive (10033)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10034",
+    "code": 10034,
+    "sourceFile": "Serve and Receive (10034).mp4",
+    "name": "Serve and Receive (10034)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10035",
+    "code": 10035,
+    "sourceFile": "Serve and Receive (10035) — Variant.mp4",
+    "name": "Serve and Receive (10035) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10036",
+    "code": 10036,
+    "sourceFile": "Serve and Receive (10036).mp4",
+    "name": "Serve and Receive (10036)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10037",
+    "code": 10037,
+    "sourceFile": "Serve and Receive (10037) — Variant.mp4",
+    "name": "Serve and Receive (10037) — Variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10038",
+    "code": 10038,
+    "sourceFile": "Serve and Receive (10038).mp4",
+    "name": "Serve and Receive (10038)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10039",
+    "code": 10039,
+    "sourceFile": "Serve and Receive (10039).mp4",
+    "name": "Serve and Receive (10039)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10040",
+    "code": 10040,
+    "sourceFile": "Serve and Receive (10040).mp4",
+    "name": "Serve and Receive (10040)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10041",
+    "code": 10041,
+    "sourceFile": "Serve and Receive (10041).mp4",
+    "name": "Serve and Receive (10041)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10042",
+    "code": 10042,
+    "sourceFile": "Serve and Receive (10042).mp4",
+    "name": "Serve and Receive (10042)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10043",
+    "code": 10043,
+    "sourceFile": "Serve and Receive (10043).mp4",
+    "name": "Serve and Receive (10043)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10044",
+    "code": 10044,
+    "sourceFile": "Serve and Receive (10044).mp4",
+    "name": "Serve and Receive (10044)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10045",
+    "code": 10045,
+    "sourceFile": "Serve and Receive (10045).mp4",
+    "name": "Serve and Receive (10045)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10046",
+    "code": 10046,
+    "sourceFile": "Serve and Receive (10046).mp4",
+    "name": "Serve and Receive (10046)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10047",
+    "code": 10047,
+    "sourceFile": "Serve and Receive (10047).mp4",
+    "name": "Serve and Receive (10047)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10048",
+    "code": 10048,
+    "sourceFile": "Serve and Receive (10048) — Block.mp4",
+    "name": "Serve and Receive (10048) — Block",
+    "description": "Serve and Receive drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10049",
+    "code": 10049,
+    "sourceFile": "Serve and Receive (10049) — Block.mp4",
+    "name": "Serve and Receive (10049) — Block",
+    "description": "Serve and Receive drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10050",
+    "code": 10050,
+    "sourceFile": "Serve and Receive (10050) — Footwork and variant.mp4",
+    "name": "Serve and Receive (10050) — Footwork and variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Footwork and variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10051",
+    "code": 10051,
+    "sourceFile": "Serve and Receive (10051) — Footwork and variant.mp4",
+    "name": "Serve and Receive (10051) — Footwork and variant",
+    "description": "Serve and Receive drill from the coaching library. Variant: Footwork and variant.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10052",
+    "code": 10052,
+    "sourceFile": "Serve and Receive (10052) — Attack.mp4",
+    "name": "Serve and Receive (10052) — Attack",
+    "description": "Serve and Receive drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10053",
+    "code": 10053,
+    "sourceFile": "Serve and Receive (10053) — Attack.mp4",
+    "name": "Serve and Receive (10053) — Attack",
+    "description": "Serve and Receive drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10054",
+    "code": 10054,
+    "sourceFile": "Serve and Receive (10054) — Attack.mp4",
+    "name": "Serve and Receive (10054) — Attack",
+    "description": "Serve and Receive drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10055",
+    "code": 10055,
+    "sourceFile": "Serve and Receive (10055).mp4",
+    "name": "Serve and Receive (10055)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10056",
+    "code": 10056,
+    "sourceFile": "Serve and Receive (10056).mp4",
+    "name": "Serve and Receive (10056)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10057",
+    "code": 10057,
+    "sourceFile": "Serve and Receive (10057).mp4",
+    "name": "Serve and Receive (10057)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10058",
+    "code": 10058,
+    "sourceFile": "Serve and Receive (10058).mp4",
+    "name": "Serve and Receive (10058)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10059",
+    "code": 10059,
+    "sourceFile": "Serve and Receive (10059).mp4",
+    "name": "Serve and Receive (10059)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-10060",
+    "code": 10060,
+    "sourceFile": "Serve and Receive (10060).mp4",
+    "name": "Serve and Receive (10060)",
+    "description": "Serve and Receive drill from the coaching library.",
+    "focusZones": [
+      "serving",
+      "serve-receive"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Serve and Receive"
+  },
+  {
+    "id": "drill-11001",
+    "code": 11001,
+    "sourceFile": "Reception and Setting (11001).mp4",
+    "name": "Reception and Setting (11001)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11002",
+    "code": 11002,
+    "sourceFile": "Reception and Setting (11002) — Take 2.mp4",
+    "name": "Reception and Setting (11002) — Take 2",
+    "description": "Reception and Setting drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11003",
+    "code": 11003,
+    "sourceFile": "Reception and Setting (11003).mp4",
+    "name": "Reception and Setting (11003)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11004",
+    "code": 11004,
+    "sourceFile": "Reception and Setting (11004).mp4",
+    "name": "Reception and Setting (11004)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11005",
+    "code": 11005,
+    "sourceFile": "Reception and Setting (11005).mp4",
+    "name": "Reception and Setting (11005)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11006",
+    "code": 11006,
+    "sourceFile": "Reception and Setting (11006).mp4",
+    "name": "Reception and Setting (11006)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11007",
+    "code": 11007,
+    "sourceFile": "Reception and Setting (11007).mp4",
+    "name": "Reception and Setting (11007)",
+    "description": "Reception and Setting drill from the coaching library.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11008",
+    "code": 11008,
+    "sourceFile": "Reception and Setting (11008) — Attack.mp4",
+    "name": "Reception and Setting (11008) — Attack",
+    "description": "Reception and Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-11009",
+    "code": 11009,
+    "sourceFile": "Reception and Setting (11009) — Attack.mp4",
+    "name": "Reception and Setting (11009) — Attack",
+    "description": "Reception and Setting drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "serve-receive",
+      "setting"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Reception and Setting"
+  },
+  {
+    "id": "drill-12001",
+    "code": 12001,
+    "sourceFile": "Setting and Attack (12001).mp4",
+    "name": "Setting and Attack (12001)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12002",
+    "code": 12002,
+    "sourceFile": "Setting and Attack (12002).mp4",
+    "name": "Setting and Attack (12002)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12003",
+    "code": 12003,
+    "sourceFile": "Setting and Attack (12003).mp4",
+    "name": "Setting and Attack (12003)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12004",
+    "code": 12004,
+    "sourceFile": "Setting and Attack (12004).mp4",
+    "name": "Setting and Attack (12004)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12005",
+    "code": 12005,
+    "sourceFile": "Setting and Attack (12005).mp4",
+    "name": "Setting and Attack (12005)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12006",
+    "code": 12006,
+    "sourceFile": "Setting and Attack (12006).mp4",
+    "name": "Setting and Attack (12006)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12007",
+    "code": 12007,
+    "sourceFile": "Setting and Attack (12007).mp4",
+    "name": "Setting and Attack (12007)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12008",
+    "code": 12008,
+    "sourceFile": "Setting and Attack (12008).mp4",
+    "name": "Setting and Attack (12008)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12009",
+    "code": 12009,
+    "sourceFile": "Setting and Attack (12009).mp4",
+    "name": "Setting and Attack (12009)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12010",
+    "code": 12010,
+    "sourceFile": "Setting and Attack (12010).mp4",
+    "name": "Setting and Attack (12010)",
+    "description": "Setting and Attack drill from the coaching library.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-12011",
+    "code": 12011,
+    "sourceFile": "Setting and Attack (12011) — Part 2.mp4",
+    "name": "Setting and Attack (12011) — Part 2",
+    "description": "Setting and Attack drill from the coaching library. Variant: Part 2.",
+    "focusZones": [
+      "setting",
+      "attacking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 3,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Setting and Attack"
+  },
+  {
+    "id": "drill-13001",
+    "code": 13001,
+    "sourceFile": "Attack and Block (13001).mp4",
+    "name": "Attack and Block (13001)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13002",
+    "code": 13002,
+    "sourceFile": "Attack and Block (13002).mp4",
+    "name": "Attack and Block (13002)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13003",
+    "code": 13003,
+    "sourceFile": "Attack and Block (13003).mp4",
+    "name": "Attack and Block (13003)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13004",
+    "code": 13004,
+    "sourceFile": "Attack and Block (13004).mp4",
+    "name": "Attack and Block (13004)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13005",
+    "code": 13005,
+    "sourceFile": "Attack and Block (13005).mp4",
+    "name": "Attack and Block (13005)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13006",
+    "code": 13006,
+    "sourceFile": "Attack and Block (13006).mp4",
+    "name": "Attack and Block (13006)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13007",
+    "code": 13007,
+    "sourceFile": "Attack and Block (13007).mp4",
+    "name": "Attack and Block (13007)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13008",
+    "code": 13008,
+    "sourceFile": "Attack and Block (13008) — Take 2.mp4",
+    "name": "Attack and Block (13008) — Take 2",
+    "description": "Attack and Block drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13009",
+    "code": 13009,
+    "sourceFile": "Attack and Block (13009) — Take 2.mp4",
+    "name": "Attack and Block (13009) — Take 2",
+    "description": "Attack and Block drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13010",
+    "code": 13010,
+    "sourceFile": "Attack and Block (13010) — Take 2.mp4",
+    "name": "Attack and Block (13010) — Take 2",
+    "description": "Attack and Block drill from the coaching library. Variant: Take 2.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13011",
+    "code": 13011,
+    "sourceFile": "Attack and Block (13011).mp4",
+    "name": "Attack and Block (13011)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13012",
+    "code": 13012,
+    "sourceFile": "Attack and Block (13012).mp4",
+    "name": "Attack and Block (13012)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13013",
+    "code": 13013,
+    "sourceFile": "Attack and Block (13013).mp4",
+    "name": "Attack and Block (13013)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13014",
+    "code": 13014,
+    "sourceFile": "Attack and Block (13014).mp4",
+    "name": "Attack and Block (13014)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13015",
+    "code": 13015,
+    "sourceFile": "Attack and Block (13015) — Block.mp4",
+    "name": "Attack and Block (13015) — Block",
+    "description": "Attack and Block drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13016",
+    "code": 13016,
+    "sourceFile": "Attack and Block (13016) — Block.mp4",
+    "name": "Attack and Block (13016) — Block",
+    "description": "Attack and Block drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13017",
+    "code": 13017,
+    "sourceFile": "Attack and Block (13017).mp4",
+    "name": "Attack and Block (13017)",
+    "description": "Attack and Block drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13018",
+    "code": 13018,
+    "sourceFile": "Attack and Block (13018) — Block.mp4",
+    "name": "Attack and Block (13018) — Block",
+    "description": "Attack and Block drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-13019",
+    "code": 13019,
+    "sourceFile": "Attack and Block (13019) — Block.mp4",
+    "name": "Attack and Block (13019) — Block",
+    "description": "Attack and Block drill from the coaching library. Variant: Block.",
+    "focusZones": [
+      "attacking",
+      "blocking"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Block"
+  },
+  {
+    "id": "drill-14001",
+    "code": 14001,
+    "sourceFile": "Attack and Dig (14001).mp4",
+    "name": "Attack and Dig (14001)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14002",
+    "code": 14002,
+    "sourceFile": "Attack and Dig (14002).mp4",
+    "name": "Attack and Dig (14002)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14003",
+    "code": 14003,
+    "sourceFile": "Attack and Dig (14003).mp4",
+    "name": "Attack and Dig (14003)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14004",
+    "code": 14004,
+    "sourceFile": "Attack and Dig (14004).mp4",
+    "name": "Attack and Dig (14004)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14005",
+    "code": 14005,
+    "sourceFile": "Attack and Dig (14005).mp4",
+    "name": "Attack and Dig (14005)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14006",
+    "code": 14006,
+    "sourceFile": "Attack and Dig (14006).mp4",
+    "name": "Attack and Dig (14006)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14007",
+    "code": 14007,
+    "sourceFile": "Attack and Dig (14007).mp4",
+    "name": "Attack and Dig (14007)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14009",
+    "code": 14009,
+    "sourceFile": "Attack and Dig (14009) — Attack.mp4",
+    "name": "Attack and Dig (14009) — Attack",
+    "description": "Attack and Dig drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14010",
+    "code": 14010,
+    "sourceFile": "Attack and Dig (14010).mp4",
+    "name": "Attack and Dig (14010)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14011",
+    "code": 14011,
+    "sourceFile": "Attack and Dig (14011).mp4",
+    "name": "Attack and Dig (14011)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14012",
+    "code": 14012,
+    "sourceFile": "Attack and Dig (14012).mp4",
+    "name": "Attack and Dig (14012)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14013",
+    "code": 14013,
+    "sourceFile": "Attack and Dig (14013).mp4",
+    "name": "Attack and Dig (14013)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14014",
+    "code": 14014,
+    "sourceFile": "Attack and Dig (14014).mp4",
+    "name": "Attack and Dig (14014)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14015",
+    "code": 14015,
+    "sourceFile": "Attack and Dig (14015).mp4",
+    "name": "Attack and Dig (14015)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14016",
+    "code": 14016,
+    "sourceFile": "Attack and Dig (14016).mp4",
+    "name": "Attack and Dig (14016)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14017",
+    "code": 14017,
+    "sourceFile": "Attack and Dig (14017).mp4",
+    "name": "Attack and Dig (14017)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14018",
+    "code": 14018,
+    "sourceFile": "Attack and Dig (14018) — Variant.mp4",
+    "name": "Attack and Dig (14018) — Variant",
+    "description": "Attack and Dig drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14019",
+    "code": 14019,
+    "sourceFile": "Attack and Dig (14019) — Variant.mp4",
+    "name": "Attack and Dig (14019) — Variant",
+    "description": "Attack and Dig drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14020",
+    "code": 14020,
+    "sourceFile": "Attack and Dig (14020) — Variant.mp4",
+    "name": "Attack and Dig (14020) — Variant",
+    "description": "Attack and Dig drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14021",
+    "code": 14021,
+    "sourceFile": "Attack and Dig (14021) — Attack.mp4",
+    "name": "Attack and Dig (14021) — Attack",
+    "description": "Attack and Dig drill from the coaching library. Variant: Attack.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14022",
+    "code": 14022,
+    "sourceFile": "Attack and Dig (14022) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14022) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14023",
+    "code": 14023,
+    "sourceFile": "Attack and Dig (14023) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14023) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14024",
+    "code": 14024,
+    "sourceFile": "Attack and Dig (14024) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14024) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14025",
+    "code": 14025,
+    "sourceFile": "Attack and Dig (14025) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14025) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14026",
+    "code": 14026,
+    "sourceFile": "Attack and Dig (14026) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14026) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14027",
+    "code": 14027,
+    "sourceFile": "Attack and Dig (14027) — Footwork and defence.mp4",
+    "name": "Attack and Dig (14027) — Footwork and defence",
+    "description": "Attack and Dig drill from the coaching library. Variant: Footwork and defence.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14028",
+    "code": 14028,
+    "sourceFile": "Attack and Dig (14028).mp4",
+    "name": "Attack and Dig (14028)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14029",
+    "code": 14029,
+    "sourceFile": "Attack and Dig (14029).mp4",
+    "name": "Attack and Dig (14029)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14030",
+    "code": 14030,
+    "sourceFile": "Attack and Dig (14030) — Variant.mp4",
+    "name": "Attack and Dig (14030) — Variant",
+    "description": "Attack and Dig drill from the coaching library. Variant: Variant.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14031",
+    "code": 14031,
+    "sourceFile": "Attack and Dig (14031).mp4",
+    "name": "Attack and Dig (14031)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14032",
+    "code": 14032,
+    "sourceFile": "Attack and Dig (14032).mp4",
+    "name": "Attack and Dig (14032)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14033",
+    "code": 14033,
+    "sourceFile": "Attack and Dig (14033).mp4",
+    "name": "Attack and Dig (14033)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14034",
+    "code": 14034,
+    "sourceFile": "Attack and Dig (14034).mp4",
+    "name": "Attack and Dig (14034)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  },
+  {
+    "id": "drill-14035",
+    "code": 14035,
+    "sourceFile": "Attack and Dig (14035).mp4",
+    "name": "Attack and Dig (14035)",
+    "description": "Attack and Dig drill from the coaching library.",
+    "focusZones": [
+      "attacking",
+      "defense"
+    ],
+    "ageGroups": [
+      "U12",
+      "U14",
+      "U16",
+      "U18",
+      "Adult"
+    ],
+    "levels": [
+      "rec",
+      "school",
+      "club",
+      "elite"
+    ],
+    "gender": "any",
+    "difficulty": 4,
+    "minPlayers": 4,
+    "maxPlayers": 30,
+    "durationMin": 12,
+    "equipment": [
+      "balls",
+      "net"
+    ],
+    "phases": [
+      "prep",
+      "build",
+      "competition",
+      "peak",
+      "recovery"
+    ],
+    "type": "tactical",
+    "category": "Attack and Dig"
+  }
+]

@@ -1,7 +1,8 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { clearDraft, loadDraft, saveDraft } from "@/lib/draft";
 import { defaultPracticeDays, generatePlan } from "@/lib/generator";
 import {
   AGE_LABELS,
@@ -116,6 +117,20 @@ export function Wizard() {
   const [plan, setPlan] = useState<TrainingPlan | null>(null);
   const [customLength, setCustomLength] = useState(false);
   const [newGameDate, setNewGameDate] = useState("");
+  const [ready, setReady] = useState(false);
+  const [restored, setRestored] = useState(false);
+
+  useEffect(() => {
+    const draft = loadDraft();
+    if (draft) {
+      setA(draft.answers);
+      if (draft.plan) {
+        setPlan(draft.plan);
+        setRestored(true);
+      }
+    }
+    setReady(true);
+  }, []);
 
   const isSingleSession = a.horizon === "session";
 
@@ -243,17 +258,46 @@ export function Wizard() {
 
   const isLast = step === steps.length - 1;
 
-  const generate = () => setPlan(generatePlan(a));
+  const generate = () => {
+    const next = generatePlan(a);
+    setPlan(next);
+    setRestored(false);
+    saveDraft({ answers: a, plan: next });
+  };
+
+  const handlePlanChange = useCallback((next: TrainingPlan) => {
+    saveDraft({ answers: next.answers, plan: next });
+  }, []);
+
+  if (!ready) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-sand text-sm text-ink/50">
+        Loading…
+      </div>
+    );
+  }
 
   if (plan) {
     return (
       <PlanView
         plan={plan}
+        restored={restored}
+        onDismissRestored={() => setRestored(false)}
+        onPlanChange={handlePlanChange}
         onRestart={() => {
+          clearDraft();
           setPlan(null);
+          setA(DEFAULTS);
+          setStep(0);
+          setRestored(false);
+          setCustomLength(false);
+        }}
+        onEdit={() => {
+          saveDraft({ answers: a, plan: null });
+          setPlan(null);
+          setRestored(false);
           setStep(0);
         }}
-        onEdit={() => setPlan(null)}
       />
     );
   }

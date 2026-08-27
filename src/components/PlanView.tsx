@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { alternativesFor } from "@/lib/generator";
 import { FOCUS_LABELS, HORIZON_LABELS, PHASE_LABELS } from "@/lib/labels";
@@ -29,10 +29,16 @@ export function PlanView({
   plan: initial,
   onRestart,
   onEdit,
+  onPlanChange,
+  restored = false,
+  onDismissRestored,
 }: {
   plan: TrainingPlan;
   onRestart: () => void;
   onEdit: () => void;
+  onPlanChange?: (plan: TrainingPlan) => void;
+  restored?: boolean;
+  onDismissRestored?: () => void;
 }) {
   const [plan, setPlan] = useState<TrainingPlan>(initial);
   const [video, setVideo] = useState<Exercise | null>(null);
@@ -43,6 +49,17 @@ export function PlanView({
     phase: Phase;
     current: Exercise;
   } | null>(null);
+  const skipPersist = useRef(true);
+
+  useEffect(() => {
+    if (skipPersist.current) {
+      skipPersist.current = false;
+      return;
+    }
+    if (!onPlanChange) return;
+    const t = window.setTimeout(() => onPlanChange(plan), 300);
+    return () => window.clearTimeout(t);
+  }, [plan, onPlanChange]);
 
   // Deep-update helper for a single session.
   const updateSession = (
@@ -106,6 +123,20 @@ export function PlanView({
             </button>
           </div>
         </div>
+        {restored && (
+          <div className="border-t border-sand-2 bg-court/10">
+            <div className="mx-auto flex max-w-5xl items-center justify-between gap-3 px-6 py-2 text-sm text-ink">
+              <span>Restored your last plan from this browser.</span>
+              <button
+                type="button"
+                onClick={onDismissRestored}
+                className="font-semibold text-court-dark hover:underline"
+              >
+                Dismiss
+              </button>
+            </div>
+          </div>
+        )}
       </header>
 
       <main className="mx-auto max-w-5xl px-6 py-10">

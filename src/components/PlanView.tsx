@@ -612,10 +612,7 @@ function SwapModal({
   onClose: () => void;
   onPick: (ex: Exercise) => void;
 }) {
-  const options = useMemo(
-    () => alternativesFor(target.current, answers, target.phase),
-    [target, answers]
-  );
+  const options = alternativesFor(target.current, answers, target.phase);
   return (
     <div
       className="no-print fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"

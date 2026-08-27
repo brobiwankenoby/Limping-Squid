@@ -121,8 +121,10 @@ export function Wizard() {
   const [restored, setRestored] = useState(false);
 
   useEffect(() => {
+    // Client-only hydrate from localStorage (must not run during SSR).
     const draft = loadDraft();
     if (draft) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional one-time localStorage hydrate
       setA(draft.answers);
       if (draft.plan) {
         setPlan(draft.plan);

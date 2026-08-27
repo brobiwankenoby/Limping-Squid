@@ -461,7 +461,7 @@ function fitSessionToLength(blocks: Block[], sessionLength: number): Block[] {
   if (total < sessionLength && fitted.length > 0) {
     let need = sessionLength - total;
     const growTypes = new Set(["skill", "scrimmage", "tactical", "conditioning"]);
-    let pool: { bi: number; ii: number }[] = [];
+    const pool: { bi: number; ii: number }[] = [];
     fitted.forEach((b, bi) => {
       if (!growTypes.has(b.type)) return;
       b.items.forEach((_, ii) => pool.push({ bi, ii }));
@@ -704,7 +704,7 @@ function assignIntensities(
   if (target === "loading" && !slots.some((s) => s.intensity === "high")) {
     const candidate = slots
       .map((s, i) => ({ s, i }))
-      .filter(({ s, i }) => !s.locked && s.intensity !== "low")
+      .filter(({ s }) => !s.locked && s.intensity !== "low")
       .sort((a, b) => {
         // Prefer middle of the week / middle index
         const mid = (n - 1) / 2;
@@ -768,8 +768,10 @@ function allocateBudget(
     intensity !== "low";
 
   // Fixed bookends as % of L, clamped.
-  let warmup = Math.round(clamp(L * 0.11, 6, 12));
-  let closeout = Math.round(clamp(L * (intensity === "low" ? 0.14 : 0.15), 8, 18));
+  const warmup = Math.round(clamp(L * 0.11, 6, 12));
+  const closeout = Math.round(
+    clamp(L * (intensity === "low" ? 0.14 : 0.15), 8, 18)
+  );
 
   let remaining = L - warmup - closeout;
   let conditioning = 0;
@@ -782,7 +784,6 @@ function allocateBudget(
   // Higher bias → more game-like, less isolated primary.
   const primaryShare = 0.5 - bias * 0.25; // ~0.31–0.45 of middle
   const gamelikeShare = 0.25 + bias * 0.3; // ~0.31–0.475 of middle
-  const secondaryShare = 1 - primaryShare - gamelikeShare;
 
   let primary = Math.round(remaining * primaryShare);
   let gamelike = Math.round(remaining * gamelikeShare);

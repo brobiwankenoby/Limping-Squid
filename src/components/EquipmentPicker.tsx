@@ -16,7 +16,7 @@ export function EquipmentPicker({
   assumedAvailable?: Equipment[];
 }) {
   return (
-    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+    <div className="grid grid-cols-2 gap-3 lg:grid-cols-3">
       {assumedAvailable.map((item) => (
         <EquipmentBox
           key={item}
@@ -57,9 +57,9 @@ function EquipmentBox({
       type="button"
       onClick={onToggle}
       disabled={disabled}
-      className={`rounded-xl border-2 p-3 text-left transition ${
+      className={`w-full min-h-[3.25rem] rounded-xl border-2 p-4 text-left transition ${
         disabled
-          ? "cursor-default border-sand-2 bg-sand/40"
+          ? "cursor-default border-sand-2 bg-sand/50"
           : selected
             ? "border-brand bg-brand/10 shadow-sm"
             : "border-sand-2 bg-white hover:border-brand/50"

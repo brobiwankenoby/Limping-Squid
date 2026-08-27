@@ -79,11 +79,11 @@ export function Field({
   children: ReactNode;
 }) {
   return (
-    <label className="block">
-      <span className="font-semibold text-ink">{label}</span>
-      {hint && <span className="ml-2 text-sm text-ink/50">{hint}</span>}
+    <div className="block">
+      <div className="font-semibold text-ink">{label}</div>
+      {hint && <div className="mt-0.5 text-sm text-ink/50">{hint}</div>}
       <div className="mt-2">{children}</div>
-    </label>
+    </div>
   );
 }
 

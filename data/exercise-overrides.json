@@ -342,7 +342,12 @@
     "videoUrl": "https://www.youtube.com/watch?v=Q9q0KESuaSI"
   },
   "drill-11006": {
-    "videoUrl": "https://www.youtube.com/watch?v=v4OXbZaWmB8"
+    "videoUrl": "https://www.youtube.com/watch?v=v4OXbZaWmB8",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-11007": {
     "videoUrl": "https://www.youtube.com/watch?v=EASbKJbMhYc"
@@ -432,7 +437,12 @@
     "videoUrl": "https://www.youtube.com/watch?v=ToqNKBCvMg4"
   },
   "drill-14014": {
-    "videoUrl": "https://www.youtube.com/watch?v=tumyIL_37yw"
+    "videoUrl": "https://www.youtube.com/watch?v=tumyIL_37yw",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-14015": {
     "videoUrl": "https://www.youtube.com/watch?v=OuzQvRhK6L4"
@@ -459,7 +469,12 @@
     "videoUrl": "https://www.youtube.com/watch?v=DRq-c6nLI34"
   },
   "drill-14023": {
-    "videoUrl": "https://www.youtube.com/watch?v=pSVPffV1X54"
+    "videoUrl": "https://www.youtube.com/watch?v=pSVPffV1X54",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-14024": {
     "videoUrl": "https://www.youtube.com/watch?v=-tA_p1y7pnA"
@@ -486,10 +501,20 @@
     "videoUrl": "https://www.youtube.com/watch?v=4XqJOoXX5j0"
   },
   "drill-14032": {
-    "videoUrl": "https://www.youtube.com/watch?v=F5bnpaTLPVM"
+    "videoUrl": "https://www.youtube.com/watch?v=F5bnpaTLPVM",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-14033": {
-    "videoUrl": "https://www.youtube.com/watch?v=1ZQnWEEFZcU"
+    "videoUrl": "https://www.youtube.com/watch?v=1ZQnWEEFZcU",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-14034": {
     "videoUrl": "https://www.youtube.com/watch?v=LTUpkASO9aQ"

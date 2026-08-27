@@ -29,6 +29,7 @@ import type {
 } from "@/lib/types";
 import { DAYS_OF_WEEK, GAME_DAY_HORIZONS } from "@/lib/types";
 import { Logo } from "@/components/Logo";
+import { EquipmentPicker } from "@/components/EquipmentPicker";
 import { Chip, Field, NumberInput, OptionCard } from "@/components/ui";
 import { PlanView } from "@/components/PlanView";
 
@@ -578,18 +579,14 @@ export function Wizard() {
               </Field>
               <Field
                 label="Equipment on hand"
-                hint="volleyballs & net assumed available"
+                hint="balls & net always available — select what else you have"
               >
-                <div className="flex flex-wrap gap-2">
-                  {EQUIPMENT.map((e) => (
-                    <Chip
-                      key={e}
-                      selected={a.equipment.includes(e)}
-                      onClick={() => toggleEquipment(e)}
-                      label={EQUIPMENT_LABELS[e]}
-                    />
-                  ))}
-                </div>
+                <EquipmentPicker
+                  assumedAvailable={["balls", "net"]}
+                  options={EQUIPMENT}
+                  selected={a.equipment}
+                  onToggle={toggleEquipment}
+                />
               </Field>
             </div>
           )}

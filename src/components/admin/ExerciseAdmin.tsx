@@ -3,6 +3,7 @@
 import { useCallback, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useExerciseCatalog } from "@/components/ExerciseCatalogProvider";
+import { EquipmentPicker } from "@/components/EquipmentPicker";
 import { Logo } from "@/components/Logo";
 import { Chip, Field } from "@/components/ui";
 import {
@@ -376,16 +377,11 @@ function ExerciseForm({
       </Field>
 
       <Field label="Equipment required">
-        <div className="flex flex-wrap gap-2">
-          {ALL_EQUIPMENT.map((e) => (
-            <Chip
-              key={e}
-              selected={exercise.equipment.includes(e)}
-              onClick={() => setField("equipment", toggle(exercise.equipment, e))}
-              label={EQUIPMENT_LABELS[e]}
-            />
-          ))}
-        </div>
+        <EquipmentPicker
+          options={ALL_EQUIPMENT}
+          selected={exercise.equipment}
+          onToggle={(e) => setField("equipment", toggle(exercise.equipment, e))}
+        />
       </Field>
 
       <Field label="Age groups">

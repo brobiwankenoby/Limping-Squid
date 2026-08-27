@@ -110,22 +110,42 @@
     "videoUrl": "https://www.youtube.com/watch?v=3BdsQNvvrt8"
   },
   "drill-2012": {
-    "videoUrl": "https://www.youtube.com/watch?v=BmWs2IZKikc"
+    "videoUrl": "https://www.youtube.com/watch?v=BmWs2IZKikc",
+    "equipment": [
+      "balls",
+      "net",
+      "setter-target"
+    ]
   },
   "drill-2013": {
     "videoUrl": "https://www.youtube.com/watch?v=bb_b_I1csbM"
   },
   "drill-2014": {
-    "videoUrl": "https://www.youtube.com/watch?v=ERhiq6V-kS8"
+    "videoUrl": "https://www.youtube.com/watch?v=ERhiq6V-kS8",
+    "equipment": [
+      "balls",
+      "net"
+    ]
   },
   "drill-2015": {
-    "videoUrl": "https://www.youtube.com/watch?v=EZ8uhwzlvEQ"
+    "videoUrl": "https://www.youtube.com/watch?v=EZ8uhwzlvEQ",
+    "equipment": [
+      "balls",
+      "net",
+      "setter-target",
+      "targets"
+    ]
   },
   "drill-2016": {
     "videoUrl": "https://www.youtube.com/watch?v=dI6W-wMKojI"
   },
   "drill-2017": {
-    "videoUrl": "https://www.youtube.com/watch?v=h0SguSsuZHk"
+    "videoUrl": "https://www.youtube.com/watch?v=h0SguSsuZHk",
+    "equipment": [
+      "balls",
+      "net",
+      "setter-target"
+    ]
   },
   "drill-2018": {
     "videoUrl": "https://www.youtube.com/watch?v=8_Gic1EzpF8"
@@ -182,7 +202,12 @@
     "videoUrl": "https://www.youtube.com/watch?v=1S3afVFTCDA"
   },
   "drill-3006": {
-    "videoUrl": "https://www.youtube.com/watch?v=WIMadxfldwA"
+    "videoUrl": "https://www.youtube.com/watch?v=WIMadxfldwA",
+    "equipment": [
+      "balls",
+      "net",
+      "targets"
+    ]
   },
   "drill-3007": {
     "videoUrl": "https://www.youtube.com/watch?v=-4zsFzLh08U"
@@ -203,16 +228,46 @@
     "videoUrl": "https://www.youtube.com/watch?v=1JPy30KrPag"
   },
   "drill-4004": {
-    "videoUrl": "https://www.youtube.com/watch?v=muCO-W85ZZs"
+    "videoUrl": "https://www.youtube.com/watch?v=muCO-W85ZZs",
+    "equipment": [
+      "balls",
+      "net",
+      "service-machine"
+    ],
+    "ageGroups": [
+      "U16",
+      "U18",
+      "Adult"
+    ]
   },
   "drill-6001": {
-    "videoUrl": "https://www.youtube.com/watch?v=1ErjbBF9lQg"
+    "videoUrl": "https://www.youtube.com/watch?v=1ErjbBF9lQg",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-6002": {
-    "videoUrl": "https://www.youtube.com/watch?v=EjOc3p4BoNA"
+    "videoUrl": "https://www.youtube.com/watch?v=EjOc3p4BoNA",
+    "equipment": [
+      "balls",
+      "net",
+      "boxes"
+    ]
   },
   "drill-6003": {
-    "videoUrl": "https://www.youtube.com/watch?v=sAK5EZ5YpX0"
+    "videoUrl": "https://www.youtube.com/watch?v=sAK5EZ5YpX0",
+    "equipment": [
+      "balls",
+      "net",
+      "service-machine"
+    ],
+    "ageGroups": [
+      "U16",
+      "U18",
+      "Adult"
+    ]
   },
   "drill-7001": {
     "videoUrl": "https://www.youtube.com/watch?v=ubZPjsDXKyk"

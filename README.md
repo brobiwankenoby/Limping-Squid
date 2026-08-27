@@ -49,10 +49,28 @@ To stop the app, press `Ctrl + C` in the terminal.
 | Exercise tags / data model | `src/lib/types.ts` |
 | Plan generation + periodization rules | `src/lib/generator.ts` |
 | Browser draft persistence | `src/lib/draft.ts` |
+| Exercise catalog + overrides | `src/lib/exercise-catalog.ts` |
+| Shared drill overrides (commit this) | `data/exercise-overrides.json` |
+| Admin drill editor | `/admin/exercises` |
 | The question wizard | `src/components/Wizard.tsx` |
 | The generated plan + editing | `src/components/PlanView.tsx` |
 | Landing page | `src/app/page.tsx` |
 | How it works | `src/app/how-it-works/page.tsx` |
+
+## Admin: editing drills
+
+Hidden route: **`/admin/exercises`** (bookmark it — not linked from the public site).
+
+Edit drill name, YouTube URL, skills, equipment, age groups, levels, gender, and more. Changes save automatically in this browser. Shared overrides live in [`data/exercise-overrides.json`](data/exercise-overrides.json) in the repo.
+
+**Collaboration (you + friend, PC + Mac):**
+
+1. `git pull origin main` before editing
+2. Edit at `/admin/exercises`
+3. **Export overrides** → replace `data/exercise-overrides.json` → commit and push
+4. Other person pulls — they get your updates
+
+Split work by category (e.g. Setting vs Serve and Receive) to avoid merge conflicts.
 
 ## Swapping in real videos
 

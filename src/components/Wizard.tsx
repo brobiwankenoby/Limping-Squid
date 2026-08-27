@@ -67,6 +67,7 @@ const LEVELS: Level[] = ["rec", "school", "club", "elite"];
 const EQUIPMENT: Equipment[] = [
   "cart",
   "targets",
+  "setter-target",
   "bands",
   "cones",
   "blocking-machine",

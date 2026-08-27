@@ -22,6 +22,7 @@ export type Equipment =
   | "net"
   | "cart"
   | "targets"
+  | "setter-target"
   | "bands"
   | "cones"
   | "blocking-machine"

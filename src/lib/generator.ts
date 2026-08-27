@@ -1,4 +1,4 @@
-import { EXERCISES } from "./exercises";
+import { getExercises } from "./exercise-catalog";
 import {
   DAY_LABELS,
   FOCUS_LABELS,
@@ -327,12 +327,13 @@ function poolFor(
     { usePhase: false, useRoster: true },
     { usePhase: false, useRoster: false },
   ]) {
-    const pool = EXERCISES.filter(
+    const all = getExercises();
+    const pool = all.filter(
       (ex) => byType(ex) && byZone(ex) && matches(ex, ctx, opts)
     );
     if (pool.length) return pool;
   }
-  return EXERCISES.filter((ex) => byType(ex));
+  return getExercises().filter((ex) => byType(ex));
 }
 
 /** Prefer warm-ups that involve a ball when available. */

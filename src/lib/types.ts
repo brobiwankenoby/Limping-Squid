@@ -21,6 +21,7 @@ export type Equipment =
   | "balls"
   | "net"
   | "cart"
+  | "boxes"
   | "targets"
   | "setter-target"
   | "bands"

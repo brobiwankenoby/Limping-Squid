@@ -67,6 +67,7 @@ const AGES: AgeGroup[] = ["U12", "U14", "U16", "U18", "Adult"];
 const LEVELS: Level[] = ["rec", "school", "club", "elite"];
 const EQUIPMENT: Equipment[] = [
   "cart",
+  "boxes",
   "targets",
   "setter-target",
   "bands",

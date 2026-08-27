@@ -60,6 +60,7 @@ export const EQUIPMENT_LABELS: Record<Equipment, string> = {
   balls: "Volleyballs",
   net: "Net",
   cart: "Ball cart",
+  boxes: "Boxes",
   targets: "Targets",
   "setter-target": "Setter's target",
   bands: "Resistance bands",
